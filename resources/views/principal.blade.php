@@ -14,7 +14,7 @@
   
   <nav class="navbar navbar-light bg-light">
   <span class="navbar-text">
-      <p class="text-center"><h1>Proyecto</h1> </p>
+      <p class="text-center"><h1>Proyecto 5.6 </h1> </p>
   </span>
   </nav>
    
